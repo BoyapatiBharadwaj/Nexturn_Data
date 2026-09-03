@@ -12,8 +12,8 @@ app = FastAPI()
 db = mysql.connector.connect(
     host="localhost",
     user="root",
-    password="2535",
-    database="nexturn_data_crud_db"
+    password="Reddy@2004",
+    database="crud"
 )
 
 cursor = db.cursor()

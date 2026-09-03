@@ -4,8 +4,8 @@ import mysql.connector
 db = mysql.connector.connect(
     host="localhost",
     user="root",
-    password="2535",
-    database="nexturn_data_crud_db"
+    password="Reddy@2004",
+    database="crud"
 )
 
 cursor = db.cursor()
@@ -54,12 +54,12 @@ def delete_user(user_id):
 
 
 # Example usage
-create_user("Bharadwaj", 22)
+create_user("Annem Venkata Kishan Kumar Reddy", 24)
 
 print("Users:")
 get_users()
 
-update_user(1, "Bharadwaj Boyapati", 23)
+update_user(1, "kishan", 22)
 
 delete_user(1)
 
