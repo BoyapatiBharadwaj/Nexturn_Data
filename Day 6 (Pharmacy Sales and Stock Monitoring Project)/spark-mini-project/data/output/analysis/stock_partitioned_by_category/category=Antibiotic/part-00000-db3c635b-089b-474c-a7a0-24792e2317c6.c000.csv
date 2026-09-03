@@ -1,0 +1,2 @@
+product_id,product_name,reorder_level,initial_stock,total_sold,total_restocked,current_stock,stock_status
+P002,Amoxicillin 500mg,25,60,40,10,30,AT_RISK

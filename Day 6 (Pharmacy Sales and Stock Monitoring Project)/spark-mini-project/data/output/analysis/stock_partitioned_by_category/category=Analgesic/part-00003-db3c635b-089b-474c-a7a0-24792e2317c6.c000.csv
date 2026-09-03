@@ -1,0 +1,2 @@
+product_id,product_name,reorder_level,initial_stock,total_sold,total_restocked,current_stock,stock_status
+P001,Paracetamol 500mg,30,100,45,20,75,ADEQUATE

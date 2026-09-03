@@ -1,0 +1,2 @@
+product_id,product_name,reorder_level,initial_stock,total_sold,total_restocked,current_stock,stock_status
+P004,Cough Syrup,20,50,55,0,-5,STOCK_OUT

@@ -1,0 +1,37 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /home/babblu/spark-mini-project/target/scala-2.12/pharmacy-sales-stock-monitoring_2.12-1.0.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	StockBalance.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/babblu/spark-mini-project/target/scala-2.12/classes/StockBalance.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	BatchProcessor.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/babblu/spark-mini-project/target/scala-2.12/classes/BatchProcessor.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	StreamingProcessor$StreamEvent.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/babblu/spark-mini-project/target/scala-2.12/classes/StreamingProcessor$StreamEvent.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	BatchProcessor$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/babblu/spark-mini-project/target/scala-2.12/classes/BatchProcessor$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	BatchProcessor$$typecreator21$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/babblu/spark-mini-project/target/scala-2.12/classes/BatchProcessor$$typecreator21$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	PharmacyEvent$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/babblu/spark-mini-project/target/scala-2.12/classes/PharmacyEvent$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	BatchProcessor$$typecreator16$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/babblu/spark-mini-project/target/scala-2.12/classes/BatchProcessor$$typecreator16$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Utils$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/babblu/spark-mini-project/target/scala-2.12/classes/Utils$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Product$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/babblu/spark-mini-project/target/scala-2.12/classes/Product$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	PharmacyEvent.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/babblu/spark-mini-project/target/scala-2.12/classes/PharmacyEvent.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	BatchProcessor$$typecreator6$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/babblu/spark-mini-project/target/scala-2.12/classes/BatchProcessor$$typecreator6$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Utils.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/babblu/spark-mini-project/target/scala-2.12/classes/Utils.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	StreamingProcessor$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/babblu/spark-mini-project/target/scala-2.12/classes/StreamingProcessor$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	StreamingProcessor$StreamEvent$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/babblu/spark-mini-project/target/scala-2.12/classes/StreamingProcessor$StreamEvent$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Product.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/babblu/spark-mini-project/target/scala-2.12/classes/Product.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	StreamingProcessor.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/babblu/spark-mini-project/target/scala-2.12/classes/StreamingProcessor.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	StockBalance$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/babblu/spark-mini-project/target/scala-2.12/classes/StockBalance$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m

@@ -1,0 +1,6 @@
+product_id,product_name,category,initial_stock,total_sold,total_restocked,current_stock,reorder_level,stock_status
+P001,Paracetamol 500mg,Analgesic,100,45,20,75,30,ADEQUATE
+P002,Amoxicillin 500mg,Antibiotic,60,40,10,30,25,AT_RISK
+P003,Insulin 100IU,Diabetes,40,30,5,15,15,AT_RISK
+P004,Cough Syrup,Cold and Cough,50,55,0,-5,20,STOCK_OUT
+P005,Vitamin C 500mg,Vitamins,80,30,30,80,25,ADEQUATE

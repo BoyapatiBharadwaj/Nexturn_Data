@@ -1,0 +1,6 @@
+product_id,product_name,category,reorder_level,initial_stock
+P001,Paracetamol 500mg,Analgesic,30,100
+P002,Amoxicillin 500mg,Antibiotic,25,60
+P003,Insulin 100IU,Diabetes,15,40
+P004,Cough Syrup,Cold and Cough,20,50
+P005,Vitamin C 500mg,Vitamins,25,80

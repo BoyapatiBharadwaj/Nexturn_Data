@@ -1,0 +1,2 @@
+product_id,product_name,reorder_level,initial_stock,total_sold,total_restocked,current_stock,stock_status
+P005,Vitamin C 500mg,25,80,30,30,80,ADEQUATE
